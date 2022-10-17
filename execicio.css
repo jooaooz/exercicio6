@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    display: flex;
+}
+.divi1{
+    margin: 20px;
+    background-color: #76c893;
+    padding: 10px;
+}
+.divi2{
+    margin: 20px;
+    background-color: #76c893;
+    padding: 10px;
+}
+.div3{
+    margin: 20px;
+    background-color: #76c893;
+    padding: 10px;
+}
+.topo{
+    background-color: #168aad;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    height: 100px
+    
+}
